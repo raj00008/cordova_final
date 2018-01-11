@@ -20,12 +20,12 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon density="ldpi" src="res/icon/android/icon-36.png" />
-        <icon density="mdpi" src="res/icon/android/icon-48.png" />
-        <icon density="hdpi" src="res/icon/android/icon-72.png" />
-        <icon density="xhdpi" src="res/icon/android/icon-96.png" />
-        <icon density="xxhdpi" src="res/icon/android/icon-144.png" />
-        <icon density="xxxhdpi" src="res/icon/android/icon-192.png" />
+        <icon density="ldpi" src="res/icon/android/raj00008-36.png" />
+        <icon density="mdpi" src="res/icon/android/raj00008-48.png" />
+        <icon density="hdpi" src="res/icon/android/raj00008-72.png" />
+        <icon density="xhdpi" src="res/icon/android/raj00008-96.png" />
+        <icon density="xxhdpi" src="res/icon/android/raj00008-144.png" />
+        <icon density="xxxhdpi" src="res/icon/android/raj00008-192.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -33,14 +33,14 @@
     </platform>
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.1" />
     <platform name="android">
-        <splash density="land-hdpi" src="res/screen/android/icon-land-hdpi-screen.png" />
-        <splash density="land-ldpi" src="res/screen/android/icon-land-ldpi-screen.png" />
-        <splash density="land-mdpi" src="res/screen/android/icon-land-mdpi-screen.png" />
-        <splash density="land-xhdpi" src="res/screen/android/icon-land-xhdpi-screen.png" />
-        <splash density="port-hdpi" src="res/screen/android/icon-port-hdpi-screen.png" />
-        <splash density="port-ldpi" src="res/screen/android/icon-port-ldpi-screen.png" />
-        <splash density="port-mdpi" src="res/screen/android/icon-port-mdpi-screen.png" />
-        <splash density="port-xhdpi" src="res/screen/android/icon-port-xhdpi-screen.png" />
+        <splash density="land-hdpi" src="res/screen/android/raj00008-land-hdpi-screen.png" />
+        <splash density="land-ldpi" src="res/screen/android/raj00008-land-ldpi-screen.png" />
+        <splash density="land-mdpi" src="res/screen/android/raj00008-land-mdpi-screen.png" />
+        <splash density="land-xhdpi" src="res/screen/android/raj00008-land-xhdpi-screen.png" />
+        <splash density="port-hdpi" src="res/screen/android/raj00008-port-hdpi-screen.png" />
+        <splash density="port-ldpi" src="res/screen/android/raj00009-port-ldpi-screen.png" />
+        <splash density="port-mdpi" src="res/screen/android/raj00008-port-mdpi-screen.png" />
+        <splash density="port-xhdpi" src="res/screen/android/raj00008-port-xhdpi-screen.png" />
     </platform>
     <engine name="android" spec="^7.0.0" />
 </widget>
