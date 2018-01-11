@@ -1,0 +1,218 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "companyName": "Audi",
+            "img": "./img/Audi.png",
+            "slogan": "'Advancement through Technology'",
+            "models": [
+                {
+                    "id": 101,
+                    "modelName": "R8",
+                    "img": "./img/audi-r8.jpg",
+                    "details": [
+                        {
+                            "topSpeed": "200 mph",
+                            "price": "$162900",
+                            "year":"2017- 2018"
+
+                        }
+
+                        ]
+
+                },
+                {
+                    "id": 102,
+                    "modelName": "TT",
+                    "img": "./img/TT.jpg",
+                    "details": [
+                        {
+                             "topSpeed": "130 mph",
+                            "price": "$63,400",
+                            "year":"2014"
+
+                        }
+
+                        ]
+                },
+                   {
+                    "id": 103,
+                    "modelName": "A7",
+                    "img": "./img/A7.jpg",
+                    "details": [
+                        {
+                            "topSpeed": "155 mph",
+                            "price": " $120,900.00",
+                            "year":"2018"
+
+                        }
+
+                        ]
+
+                },
+                {
+                    "id": 104,
+                    "modelName": "Q7",
+                    "img": "./img/Q7.jpg",
+                    "details": [
+                        {
+                            "topSpeed": "155 mph",
+                            "price": "$54800",
+                            "year":"2017- 2018"
+
+                        }
+
+                        ]
+
+                }
+  ]
+        },
+       
+        {
+            "id": 2,
+            "companyName": "Jaguar",
+            "img": "./img/Jaguar.png",
+            "slogan": "'How Alive Are You?'",
+            "models": [
+                {
+                    "id": 105,
+                    "modelName": "F-type",
+                    "img": "./img/F-type.jpg",
+                    "details": [
+                        {
+                             "topSpeed": "186  mph",
+                            "price": "$165000",
+                            "year":"2015"
+
+                        }
+
+                        ]
+                },
+                {
+                    "id": 106,
+                    "modelName": "Jaguar XE",
+                    "img": "./img/XE.jpg",
+                    "details": [
+                        {
+                              "topSpeed": "155 mph",
+                            "price": "$34900",
+                        
+                            "year":"2014"
+
+                        }
+
+                        ]
+                },   
+                {
+                    "id": 107,
+                    "modelName": "Jaguar XF",
+                    "img": "./img/XF1.png",
+                    "details": [
+                        {
+                              "topSpeed": "155 mph",
+                            "price": "$52,260",
+                        
+                            "year":"2016"
+
+                        }
+
+                        ]
+                }
+  ]
+        },  {
+            "id": 3,
+            "companyName": "BMW",
+            "img": "./img/BMW.png",
+            "slogan": "'The Ultimate Driving Machine'",
+            "models": [
+                {
+                    "id": 108,
+                    "modelName": "BMW X5M",
+                    "img": "./img/BMWX5.jpg",
+                    "details": [
+                        {
+                              "topSpeed": "186 mph",
+                            "price": "$108,900 ",
+                            "year":"2009"
+
+                        }
+
+                        ]
+                },
+                {
+                    "id": 109,
+                    "modelName": "BMW 7 Series",
+                    "img": "./img/BMW7.jpg",
+                    "details": [
+                        {
+                              "topSpeed": "155  mph",
+                            "price": "$116,500 ",
+                            "year":"2014"
+
+                        }
+
+                        ]
+                }
+  ]
+        },
+        {
+            "id": 4,
+            "companyName": "Mercedes",
+            "img": "./img/Mercedes-Benz.png",
+            "slogan": "'The best or nothing'",
+            "models": [
+                {
+                    "id": 110,
+                    "modelName": "Mercedes SL450",
+                    "img": "./img/SL.PNG",
+                    "details": [
+                        {
+                             "topSpeed": "155 mph",
+                            "price": "$85000",
+                            "year":"2017"
+                        }
+
+                        ]
+                },
+                {
+                    "id": 111,
+                    "modelName": "Mercedes G-Class",
+                    "img": "./img/G.jpg",
+                    "details": [
+                        {
+                              "topSpeed": "200 mph",
+                            "price": "$120,000",
+                            "year":"2006"
+
+                        }
+
+                        ]
+                },    {
+                    "id": 112,
+                    "modelName": "Mercedes CLA",
+                    "img": "./img/CLA.PNG",
+                    "details": [
+                        {
+                             "topSpeed": "133 mph",
+                            "price": "$33,395",
+                            "year":"2014 "
+                        }
+
+                        ]
+                },  {
+                    "id": 113,
+                    "modelName": "Mercedes GLA",
+                    "img": "./img/GLA.PNG",
+                    "details": [
+                        {
+                             "topSpeed": "131 mph",
+                            "price": "$34,395",
+                            "year":"2014 "
+                        }
+
+                        ]
+                }
+  ]
+        }
+]
+}
